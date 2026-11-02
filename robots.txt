@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ccct12.github.io/smash-arch/sitemap.xml
